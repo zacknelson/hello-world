@@ -5,3 +5,9 @@ My name is Zack Nelson and I am the managing partner of a small web design and d
 I also love moon tacos. 
 
 That is all. 
+
+Oh and one last thing. 
+
+I am actually a Martian. Stay tuned to the next episode of Hello World to hear my story of how I embarked on a long voyage around the sun in search of the galaxies best moon tacos, and where you can find them!
+
+Stay classy San Diego. 
